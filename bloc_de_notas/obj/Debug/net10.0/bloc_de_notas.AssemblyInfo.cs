@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bloc_de_notas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55d62cfab78d738ee6748f704a0d9d291e904063")]
 [assembly: System.Reflection.AssemblyProductAttribute("bloc_de_notas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bloc_de_notas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

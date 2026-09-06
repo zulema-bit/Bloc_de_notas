@@ -12,7 +12,7 @@ for (int i = 0; i < 3; i++)
 
 Console.WriteLine("\n--- SE GUARDARON LAS NOTAS ---");
 
-// Mostramos las 3 notas que se guardaron
+
 for (int i = 0; i < 3; i++)
 {
     Console.WriteLine($"{i + 1}. {notas[i]}");
