@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\bin\Debug\net10.0\bloc_de_notas.exe
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\bin\Debug\net10.0\bloc_de_notas.deps.json
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\bin\Debug\net10.0\bloc_de_notas.runtimeconfig.json
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\bin\Debug\net10.0\bloc_de_notas.dll
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\bin\Debug\net10.0\bloc_de_notas.pdb
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\obj\Debug\net10.0\bloc_de_notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\obj\Debug\net10.0\bloc_de_notas.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\obj\Debug\net10.0\bloc_de_notas.AssemblyInfo.cs
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\obj\Debug\net10.0\bloc_de_notas.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\obj\Debug\net10.0\bloc_de_notas.dll
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\obj\Debug\net10.0\refint\bloc_de_notas.dll
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\obj\Debug\net10.0\bloc_de_notas.pdb
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\obj\Debug\net10.0\bloc_de_notas.genruntimeconfig.cache
+C:\Users\USER\Downloads\laboratorio02\laboratorio02\bloc_de_notas\obj\Debug\net10.0\ref\bloc_de_notas.dll
