@@ -10,3 +10,13 @@ for (int i = 0; i < 3; i++)
     notas[i] = Console.ReadLine(); 
 }
 
+Console.WriteLine("\n--- SE GUARDARON LAS NOTAS ---");
+
+// Mostramos las 3 notas que se guardaron
+for (int i = 0; i < 3; i++)
+{
+    Console.WriteLine($"{i + 1}. {notas[i]}");
+}
+
+Console.WriteLine("\nPresiona cualquier tecla para salir...");
+Console.ReadKey();
